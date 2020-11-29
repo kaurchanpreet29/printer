@@ -1,0 +1,5 @@
+Server=vwp9989.webpack.hosteurope.de;
+Port=3306;
+Database=db10975332-fc;
+User=db10975332-fc;
+Password=ch03ms23

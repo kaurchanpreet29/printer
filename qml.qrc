@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo-min.ico</file>
+        <file>logo-min.png</file>
+        <file>online.png</file>
+        <file>pickup.png</file>
+        <file>pling.wav</file>
+        <file>calendar.png</file>
+        <file>cash.png</file>
+        <file>close.png</file>
+        <file>delivery.png</file>
+        <file>calendar.qml</file>
+        <file>landingscreen.qml</file>
+        <file>loaderpopup.qml</file>
+        <file>main.qml</file>
+        <file>OrderBar.qml</file>
+        <file>orderpopup.qml</file>
+        <file>SubItems.qml</file>
+    </qresource>
+</RCC>
